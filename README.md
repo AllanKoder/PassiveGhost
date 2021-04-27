@@ -1,2 +1,2 @@
 # passive-ghost
-sadbread.itch.io
+play the game: sadbread.itch.io
